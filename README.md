@@ -4,3 +4,6 @@
 Bugtracker for the NewsFeed Launcher
 
 Feel free to open an issue if you find an error or have an idea how the application could get better
+
+You can also help to translate the app on crowdin:
+https://crowdin.com/project/newsfeed-launcher
